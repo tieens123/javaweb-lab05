@@ -12,7 +12,7 @@
 	<jsp:include page="_navTop.jsp"></jsp:include>
 	<section class="container border  my-2" style="min-height: 150px">
 		<h1 class="text-center  my-5">
-			Welcom to HOMEPAGE
+			Welcome to HOMEPAGE
 		</h1>
 	</section>
 	<jsp:include page="_footer.jsp"></jsp:include>
